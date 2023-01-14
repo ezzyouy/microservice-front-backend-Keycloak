@@ -1,8 +1,4 @@
 <h2> Compte rendu </h2>
-<img src="caputes/capture2.PNG">
-<img src="caputes/customerService.PNG">
-<img src="caputes/inventoryService.PNG">
-
 <img src="caputes/capture5.PNG">
 <img src="caputes/billingService.PNG">
 <img src="caputes/ecomweb.PNG">
@@ -22,6 +18,4 @@
 <img src="caputes/manageAcount.PNG">
 <img src="caputes/amalAdmin.PNG">
 <img src="caputes/CustomerAdmin.PNG">
-<img src="caputes/customers.PNG">
-<img src="caputes/bills.PNG">
 <img src="caputes/billdetail.PNG">
