@@ -1,27 +1,17 @@
-<h3> Compte rendu </h3>
+<h2> Compte rendu </h2>
 <img src="caputes/capture2.PNG">
 <img src="caputes/customerService.PNG">
 <img src="caputes/inventoryService.PNG">
-<img src="caputes/capture8.PNG">
-<img src="caputes/capture6.PNG">
-<img src="caputes/capture7.PNG">
+
 <img src="caputes/capture5.PNG">
 <img src="caputes/billingService.PNG">
 <img src="caputes/ecomweb.PNG">
-<img src="caputes/billing-client.PNG">
-<img src="caputes/userRealm.PNG">
-<img src="caputes/amal.PNG">
-<img src="caputes/samy.PNG">
-<img src="caputes/billingProp.PNG">
-<img src="caputes/customerProp.PNG">
-<img src="caputes/inventoryProp.PNG">
 <img src="caputes/billingREST.PNG">
 <img src="caputes/feignClientInterceptor.PNG">
 <img src="caputes/refreshtoken.PNG">
 <img src="caputes/realm.PNG">
 <img src="caputes/clientSecret.PNG">
 <img src="caputes/kcBilling.PNG">
-<img src="caputes/kcBilling2.PNG">
 <img src="caputes/fullbill.PNG">
 <img src="caputes/kcCustomer.PNG">
 <img src="caputes/kcProduct.PNG">
